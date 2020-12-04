@@ -24,9 +24,7 @@ int main()
     while (counter < number)
     {
         
-        fatorial = fatorial * (number - counter) ;
-
-        counter++;
+        fatorial *= (number - counter);
     }
 
     printf("O valor do fatorial e: %d\n", fatorial);
@@ -44,6 +42,34 @@ e=1+ + + +
 1
 ! ! 3!
 ..
+
+#include <stdio.h>
+
+int main()
+{
+    int counter=0, n=1;
+    float e,ee=1;
+
+    while(1)
+    {
+        if (counter==0)
+        {
+            e=1;
+        }
+        
+        while (n<=counter)
+        {
+            ee*=1/n;
+        }
+
+        n=1;
+        ee=1;
+        counter++;
+        e+=ee;   
+    }
+
+    return 0;
+}
 
 
 c) Escreva um programa que calcule o valor de ex
