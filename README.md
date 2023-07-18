@@ -27,6 +27,8 @@ Inside this repository you will find lots of solved exercises from the book name
 ## Table of Contents
   - [Installation](#installation)
     - [C](#c)
+      - [Linux:](#linux)
+      - [Windows:](#windows)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -34,7 +36,8 @@ Inside this repository you will find lots of solved exercises from the book name
 
 ### C
 
-**Linux**: If you are using **linux**, just open the terminal and run the following command: 
+#### Linux:
+If you are using **linux**, just open the terminal and run the following command: 
 
 ```bash
 $ sudo apt install build-essential
@@ -50,7 +53,8 @@ C/C+ Compile Run
 Code Runner
 ```
 
-**Windows**: If you are using **Windows**, just open [MinGW website](http://mingw-w64.org/doku.php/download) and download the version for your system. MinGW contains all the GCC Package you need.
+#### Windows:
+If you are using **Windows**, just open [MinGW website](http://mingw-w64.org/doku.php/download) and download the version for your system. MinGW contains all the GCC Package you need.
 After installing MinGW, open it and select to install the following packages:
 ```bash
 minggw32-base-bin
