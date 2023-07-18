@@ -4,15 +4,15 @@
 
 </div>
 
+<div align="center">
+  
+Inside this repository you will find lots of solved exercises from the book named "C-How-To-Code, Deitel". It shows my progress in self-learning C language.
+
+</div>
+
 <p align="center">
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/C.svg" alt="wakatime" />
 </p>
-
-<div align="center">
-  
-Inside this repo you will find lots of solved exercises from the book named "C-How-To-Code, Deitel". It shows my progress in self-learning C language.
-
-</div>
 
 <div align="center">
   
