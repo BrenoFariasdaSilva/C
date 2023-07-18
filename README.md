@@ -1,6 +1,6 @@
-# Solved exercises from book "C-How-To-Code, Deitel".
+# [C](https://github.com/BrenoFariasdaSilva/C)
 
-Inside this repo you will find lots of solved exercises from mentioned book. It shows my progress in self-learning C language.
+Inside this repo you will find lots of solved exercises from the book named "C-How-To-Code, Deitel". It shows my progress in self-learning C language.
 
 ## Installation
 
