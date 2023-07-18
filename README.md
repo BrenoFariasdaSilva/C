@@ -4,6 +4,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/C.svg" alt="wakatime" />
+</p>
+
 Inside this repo you will find lots of solved exercises from the book named "C-How-To-Code, Deitel". It shows my progress in self-learning C language.
 
 ## Installation
