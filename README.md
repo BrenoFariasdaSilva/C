@@ -4,6 +4,14 @@
 
 </div>
 
+## Table of Contents
+- [C Language. ](#c-language-)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+    - [C](#c)
+  - [Contributing](#contributing)
+  - [License](#license)
+
 <div align="center">
 
 ---
