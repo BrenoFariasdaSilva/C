@@ -1,6 +1,6 @@
 <div align="center">
   
-# [C Language.](https://github.com/BrenoFariasdaSilva/C)
+# [C Language.](https://github.com/BrenoFariasdaSilva/C) <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  width="3%" height="3%">
 
 </div>
 
