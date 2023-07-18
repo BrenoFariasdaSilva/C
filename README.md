@@ -10,11 +10,15 @@
 
 <div align="center">
   
-![Alt](https://repobeats.axiom.co/api/embed/88270947fa3546fb97a716db5dcef7c9155c70eb.svg "Repobeats analytics image")
+Inside this repo you will find lots of solved exercises from the book named "C-How-To-Code, Deitel". It shows my progress in self-learning C language.
 
 </div>
 
-Inside this repo you will find lots of solved exercises from the book named "C-How-To-Code, Deitel". It shows my progress in self-learning C language.
+<div align="center">
+  
+![Alt](https://repobeats.axiom.co/api/embed/88270947fa3546fb97a716db5dcef7c9155c70eb.svg "Repobeats analytics image")
+
+</div>
 
 ## Installation
 
