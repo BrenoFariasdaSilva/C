@@ -1,6 +1,6 @@
 <div align="center">
   
-# [C Language](https://github.com/BrenoFariasdaSilva/C)
+# [C Language.](https://github.com/BrenoFariasdaSilva/C)
 
 </div>
 
