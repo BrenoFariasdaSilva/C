@@ -4,12 +4,6 @@
 
 </div>
 
-## Table of Contents
-  - [Installation](#installation)
-    - [C](#c)
-  - [Contributing](#contributing)
-  - [License](#license)
-
 <div align="center">
 
 ---
@@ -29,6 +23,12 @@ Inside this repository you will find lots of solved exercises from the book name
 ![Alt](https://repobeats.axiom.co/api/embed/88270947fa3546fb97a716db5dcef7c9155c70eb.svg "Repobeats analytics image")
 
 </div>
+
+## Table of Contents
+  - [Installation](#installation)
+    - [C](#c)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Installation
 
