@@ -1,4 +1,8 @@
-# [C](https://github.com/BrenoFariasdaSilva/C)
+<div align="center">
+  
+# [C Language](https://github.com/BrenoFariasdaSilva/C)
+
+</div>
 
 Inside this repo you will find lots of solved exercises from the book named "C-How-To-Code, Deitel". It shows my progress in self-learning C language.
 
