@@ -5,9 +5,13 @@
 </div>
 
 <div align="center">
+
+---
   
 Inside this repository you will find lots of solved exercises from the book named "C-How-To-Code, Deitel". It shows my progress in self-learning C language.
 
+---
+  
 </div>
 
 <p align="center">
