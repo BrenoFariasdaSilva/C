@@ -14,11 +14,14 @@ Inside this repository you will find lots of solved exercises from the book name
   
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/BrenoFariasdaSilva/C" alt="lastcommit" />
-  <img src="https://img.shields.io/github/license/BrenoFariasdaSilva/C" alt="license" />
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/C.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/C)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/C)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/C)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/C.svg)
+
+</div>
 
 <div align="center">
   
