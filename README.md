@@ -15,6 +15,7 @@ Inside this repository you will find lots of solved exercises from the book name
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/github/last-commit/BrenoFariasdaSilva/C" alt="lastcommit" />
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/C.svg" alt="wakatime" />
 </p>
 
